@@ -1,0 +1,6 @@
+{
+  "name": "Mobile App Wireframing Tool",
+  "description": "An interactive full-stack UX design canvas to conduct user research, create personas and user flows, build low-fidelity wireframes, and document the design thinking process.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
